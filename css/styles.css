@@ -24,6 +24,12 @@ h3.header {
 	letter-spacing: .26em;
 }
 
+h4.header {
+	text-align: center;
+	letter-spacing: .26em;
+	font-style: italic;
+}
+
 a:link {
 	color: #0e726f;
 }
@@ -36,6 +42,17 @@ img.header {
 	display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+p {
+	text-align: center;
+	letter-spacing: .05em;
+}
+
+#footer {
+	text-align: center;
+	letter-spacing: .3em;
+	color: #b73874;
 }
 
 body {
